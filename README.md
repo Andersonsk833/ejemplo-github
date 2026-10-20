@@ -4,6 +4,7 @@
 ## Descripción
 Este repositorio contiene el informe técnico sobre **Servicios Digitales y Almacenamiento en la Nube**, desarrollado como ejemplo práctico de uso de GitHub como servicio SaaS.
 
+
 ## Objetivo del ejercicio
 Demostrar de forma práctica los siguientes conceptos del informe:
 
